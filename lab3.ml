@@ -72,7 +72,7 @@ that we can represent with this method!
 
 It's common to refer to each value as a "channel." In this
 8-bit-per-channel model, a value of 0 represents no color and a value
-of 255 represents the full intensity of that color. Some examples:
+of 255 represents the full intensity of that color. Below are some examples:
 
  R  |  G  |  B  | Color
 ----|-----|-----|------------
